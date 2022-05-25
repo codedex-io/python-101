@@ -1,6 +1,6 @@
 # The Legend of Python
 
-https://www.codedex.io
+Codedex: https://www.codedex.io
 
 ## 1. Hello World
 
