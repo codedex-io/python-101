@@ -1,9 +1,16 @@
 # The Legend of Python
 
-1.
-2.
-3.
-4.
-5.
-7.
-8.
+https://www.codedex.io
+
+## 1. Hello World
+
+- `hello.py`
+- `pattern.py`
+- `initials.py`
+
+## 2. Variables
+- `temperature.py`
+- `bmp.py`
+
+## 3. 
+
