@@ -3,8 +3,8 @@
 
 import random
 
-name = "Joe"
-question = "Will I win the lottery?"
+name = "Sonny"
+question = "Will I find product-market fit?"
 answer = ""
 
 random_number = random.randint(1, 9)
