@@ -8,7 +8,6 @@ Codédex: https://www.codedex.io
 - `pattern.py`
 - `initials.py`
 - `snail_mail.py`
-- 
 
 ## 2. Variables
 
