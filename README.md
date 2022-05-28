@@ -20,7 +20,7 @@ Codédex: https://www.codedex.io
 - `coin_flip.py`
 - `grades.py`
 - `ph.py`
-- `magic-8-ball.py`
+- `magic_8_ball.py`
 - `fortune_cookie.py`
 
 ## 4. Loops
