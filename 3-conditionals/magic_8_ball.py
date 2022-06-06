@@ -3,7 +3,6 @@
 
 import random
 
-name = "Sonny"
 question = input("Question: ")
 answer = ""
 
