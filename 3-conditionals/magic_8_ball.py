@@ -4,7 +4,7 @@
 import random
 
 name = "Sonny"
-question = "Will I find product-market fit?"
+question = input("Question: ")
 answer = ""
 
 random_number = random.randint(1, 9)
@@ -31,5 +31,5 @@ elif random_number == 9:
 else:
   answer = "Error"
   
-print(name + " asks: " + question)
-print("Magic 8 Ball's answer: " + answer)
+print("Question: " + question)
+print("Magic 8 Ball: " + answer)
