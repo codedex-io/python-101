@@ -30,5 +30,5 @@ elif random_number == 9:
 else:
   answer = "Error"
   
-print("Question: " + question)
-print("Magic 8 Ball: " + answer)
+print("Question:      " + question)
+print("Magic 8 Ball:  " + answer)
