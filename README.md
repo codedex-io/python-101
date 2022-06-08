@@ -2,6 +2,8 @@
 
 Codédex: https://www.codedex.io
 
+Feel free to make pull requests to add your own answers!
+
 ## 1. Hello World
 
 - `howdy.py`
