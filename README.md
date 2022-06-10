@@ -30,11 +30,11 @@ Welcome to The Legend of Python GitHub repo! We are super excited to have you. H
 
 ## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_fork.png" height="20" style="position: relative; top: 50%; transform: translateY(-50%);"> Control Flow
 
-- [`coin_flip.py`](https://github.com/codedex-io/python-101/blob/main/3-conditionals/coin_flip.py)
-- [`grades.py`](https://github.com/codedex-io/python-101/blob/main/3-conditionals/grades.py)
-- [`ph_levels.py`](https://github.com/codedex-io/python-101/blob/main/3-conditionals/ph_levels.py)
-- [`magic_8_ball.py`](https://github.com/codedex-io/python-101/blob/main/3-conditionals/magic_8_ball.py)
-- [`sorting_hat.py`](https://github.com/codedex-io/python-101/blob/main/3-conditionals/sorting_hat.py)
+- [`coin_flip.py`](https://github.com/codedex-io/python-101/blob/main/3-control-flow/coin_flip.py)
+- [`grades.py`](https://github.com/codedex-io/python-101/blob/main/3-control-flow/grades.py)
+- [`ph_levels.py`](https://github.com/codedex-io/python-101/blob/main/3-control-flow/ph_levels.py)
+- [`magic_8_ball.py`](https://github.com/codedex-io/python-101/blob/main/3-control-flow/magic_8_ball.py)
+- [`sorting_hat.py`](https://github.com/codedex-io/python-101/blob/main/3-control-flow/sorting_hat.py)
 
 ## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_loop.png" height="18"> Loops
 
