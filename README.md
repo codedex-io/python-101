@@ -27,11 +27,11 @@ Feel free to make pull requests to add your own answers!
 
 ## 3. Control Flow
 
-- `coin_flip.py`
-- `grades.py`
-- `ph.py`
-- `magic_8_ball.py`
-- `fortune_cookie.py`
+- [`coin_flip.py`](https://github.com/codedex-io/python-101/blob/main/3-conditionals/coin_flip.py)
+- [`grades.py`](https://github.com/codedex-io/python-101/blob/main/3-conditionals/grades.py)
+- [`ph_levels.py`](https://github.com/codedex-io/python-101/blob/main/3-conditionals/ph_levels.py)
+- [`magic_8_ball.py`](https://github.com/codedex-io/python-101/blob/main/3-conditionals/magic_8_ball.py)
+- [`sorting_hat.py`](https://github.com/codedex-io/python-101/blob/main/3-conditionals/sorting_hat.py)
 
 ## 4. Loops
 
