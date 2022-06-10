@@ -20,8 +20,10 @@ Feel free to make pull requests to add your own answers!
 
 ## 2. Variables
 
-- `temperature.py`
-- `bmi.py`
+- [`temperature.py`](https://github.com/codedex-io/python-101/blob/main/2-variables/temperature.py)
+- [`bmi.py`](https://github.com/codedex-io/python-101/blob/main/2-variables/bmi.py)
+- [`quadratic.py`](https://github.com/codedex-io/python-101/blob/main/2-variables/quadratic.py)
+- [`currency.py`](https://github.com/codedex-io/python-101/blob/main/2-variables/currency.py)
 
 ## 3. Control Flow
 
