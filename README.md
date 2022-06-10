@@ -5,9 +5,9 @@
 </div>
 <br>
 
-Welcome to The Legend of Python's GitHub repo! We are super excited to have you. Here, we have the solutions to all the challenges on Codédex.
+Welcome to The Legend of Python GitHub repo! We are super excited to have you. Here, you will find all the solutions to the challenges on Codédex.
 
-https://www.codedex.io
+### Website: www.codedex.io
 
 Feel free to make pull requests to add your own answers!
 
