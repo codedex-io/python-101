@@ -48,3 +48,7 @@ Feel free to make pull requests to add your own answers!
 - Coming Soon
 - Coming Soon
 - Coming Soon
+
+---
+
+Make sure to join the Codédex Club or Workshops for more problems!
