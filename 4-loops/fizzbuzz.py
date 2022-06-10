@@ -1,4 +1,4 @@
-# FizzBuzz 🐝
+# Fizz Buzz 🐝
 # Codédex
 
 for num in range(99):
