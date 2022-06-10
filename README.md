@@ -42,7 +42,7 @@ Welcome to The Legend of Python GitHub repo! We are super excited to have you. H
 - [`guess_number.py`](https://github.com/codedex-io/python-101/blob/main/4-loops/guess_number.py)
 - [`detention.py`](https://github.com/codedex-io/python-101/blob/main/4-loops/detention.py)
 - [`99_bottles.py`](https://github.com/codedex-io/python-101/blob/main/4-loops/99_bottles.py)
-- [`fizz_buzz.py`](https://github.com/codedex-io/python-101/blob/main/4-loops/fizzbuzz.py)
+- [`fizz_buzz.py`](https://github.com/codedex-io/python-101/blob/main/4-loops/fizz_buzz.py)
 
 ## 5. Lists
 
