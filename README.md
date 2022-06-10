@@ -54,4 +54,4 @@ Welcome to The Legend of Python GitHub repo! We are super excited to have you. H
 
 ---
 
-Make sure to join the Codédex Club or Workshops for more problems!
+Make sure to join the Codédex Club or Workshops for more problems! 💖
