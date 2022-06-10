@@ -6,7 +6,7 @@ Feel free to make pull requests to add your own answers!
 
 ## 1. Hello World
 
-- `howdy.py`
+- [`hello_world.py`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/hello_world.py)
 - `pattern.py`
 - `initials.py`
 - `snail_mail.py`
