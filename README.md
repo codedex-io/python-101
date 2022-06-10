@@ -10,7 +10,7 @@ Welcome to The Legend of Python GitHub repo! We are super excited to have you. H
 ### Website: www.codedex.io
 
 
-## 1. Hello World
+## 1. Hello World <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_earth.png" height="18">
 
 - [`hello_world.py`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/hello_world.py)
 - [`pattern.py`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/pattern.py)
@@ -21,14 +21,14 @@ Welcome to The Legend of Python GitHub repo! We are super excited to have you. H
 
 - Make a PR
 
-## 2. Variables
+## 2. Variables <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_equal.png" height="18">
 
 - [`temperature.py`](https://github.com/codedex-io/python-101/blob/main/2-variables/temperature.py)
 - [`bmi.py`](https://github.com/codedex-io/python-101/blob/main/2-variables/bmi.py)
 - [`quadratic.py`](https://github.com/codedex-io/python-101/blob/main/2-variables/quadratic.py)
 - [`currency.py`](https://github.com/codedex-io/python-101/blob/main/2-variables/currency.py)
 
-## 3. Control Flow
+## 3. Control Flow <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_fork.png" height="18">
 
 - [`coin_flip.py`](https://github.com/codedex-io/python-101/blob/main/3-conditionals/coin_flip.py)
 - [`grades.py`](https://github.com/codedex-io/python-101/blob/main/3-conditionals/grades.py)
@@ -36,7 +36,7 @@ Welcome to The Legend of Python GitHub repo! We are super excited to have you. H
 - [`magic_8_ball.py`](https://github.com/codedex-io/python-101/blob/main/3-conditionals/magic_8_ball.py)
 - [`sorting_hat.py`](https://github.com/codedex-io/python-101/blob/main/3-conditionals/sorting_hat.py)
 
-## 4. Loops
+## 4. Loops <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_loop.png" height="18">
 
 - [`enter_pin.py`](https://github.com/codedex-io/python-101/blob/main/4-loops/enter_pin.py)
 - [`guess_number.py`](https://github.com/codedex-io/python-101/blob/main/4-loops/guess_number.py)
