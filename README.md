@@ -5,11 +5,10 @@
 </div>
 <br>
 
-Welcome to The Legend of Python GitHub repo! We are super excited to have you. Here, you will find all the solutions to the challenges on Codédex.
+Welcome to The Legend of Python GitHub repo! We are super excited to have you. Here, you will find all the solutions to the challenges on Codédex. Feel free to make pull requests to add your own twists on the challenges!
 
 ### Website: www.codedex.io
 
-Feel free to make pull requests to add your own answers!
 
 ## 1. Hello World
 
@@ -17,6 +16,10 @@ Feel free to make pull requests to add your own answers!
 - [`pattern.py`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/pattern.py)
 - [`initials.py`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/initials.py)
 - [`snail_mail.py`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/letter.py)
+
+**Community:**
+
+- Make a PR
 
 ## 2. Variables
 
