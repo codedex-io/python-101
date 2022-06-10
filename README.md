@@ -1,6 +1,8 @@
 # The Legend of Python 🐍
 
-Codédex: https://www.codedex.io
+## Website
+
+https://www.codedex.io
 
 Feel free to make pull requests to add your own answers!
 
