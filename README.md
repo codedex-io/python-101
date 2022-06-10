@@ -1,4 +1,4 @@
-# The Legend of Python
+# The Legend of Python 🐍
 
 Codédex: https://www.codedex.io
 
