@@ -10,7 +10,7 @@ Welcome to The Legend of Python GitHub repo! We are super excited to have you. H
 ### Website: www.codedex.io
 
 
-## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_earth.png" height="18"> Hello World
+## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_earth.png" height="20" style="position: relative; top: 50%; transform: translateY(-50%);"> Hello World
 
 - [`hello_world.py`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/hello_world.py)
 - [`pattern.py`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/pattern.py)
@@ -21,14 +21,14 @@ Welcome to The Legend of Python GitHub repo! We are super excited to have you. H
 
 - Make a PR
 
-## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_equal.png" height="18"> Variables
+## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_equal.png" height="21" style="vertical-align: middle"> Variables
 
 - [`temperature.py`](https://github.com/codedex-io/python-101/blob/main/2-variables/temperature.py)
 - [`bmi.py`](https://github.com/codedex-io/python-101/blob/main/2-variables/bmi.py)
 - [`quadratic.py`](https://github.com/codedex-io/python-101/blob/main/2-variables/quadratic.py)
 - [`currency.py`](https://github.com/codedex-io/python-101/blob/main/2-variables/currency.py)
 
-## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_fork.png" height="18"> Control Flow
+## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_fork.png" height="20" style="position: relative; top: 50%; transform: translateY(-50%);"> Control Flow
 
 - [`coin_flip.py`](https://github.com/codedex-io/python-101/blob/main/3-conditionals/coin_flip.py)
 - [`grades.py`](https://github.com/codedex-io/python-101/blob/main/3-conditionals/grades.py)
