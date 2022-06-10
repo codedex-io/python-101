@@ -1,6 +1,11 @@
-# The Legend of Python 🐍
+<div align="center">
+  <br>
+  <h1>The Legend of Python 🐍</h1>
+  <strong>GitHub Repo with Beginner-friendly Python Problems</strong>
+</div>
+<br>
 
-## Website
+Welcome to The Legend of Python's GitHub repo! We are so excited to have you.
 
 https://www.codedex.io
 
