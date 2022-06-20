@@ -76,3 +76,12 @@ print(gryffindor)
 print(ravenclaw)
 print(hufflepuff)
 print(slytherin)
+
+if gryffinder >= ravenclaw and gryffinder >= hufflepuff and gryffinder >= slytherin:
+  print("🦁 Gryffindor!")
+elif ravenclaw >= hufflepuff and ravenclaw >= slytherin:
+  print("🦅 Ravenclaw!")
+elif huffplepuff >= slytherin:
+  print("🦡 Hufflepuff!")
+else:
+  print("🐍 Slytherin!")
