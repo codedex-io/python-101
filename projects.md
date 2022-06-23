@@ -23,12 +23,19 @@
 - Class Schedule
 - Pokédex
 
-**Advanced Games:**
+**Games:**
 
 - Tic-Tac-Toe
 - Battleship
 - Connect Four
 - Snake
+- Tron
+- Pong
+- Breakout
+- Space Invaders
+- 2048
+- Tetris
+- T-Rex Run!
 
 **GUI:**
 
