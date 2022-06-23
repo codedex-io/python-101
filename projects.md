@@ -1,29 +1,40 @@
 # 25 Project Ideas in Python
 
+**Control Flow and Random:**
+
 - Fortune Cookie
 - Dice Rolling Simulator
 - Rock Paper Scisssors (Rock Paper Scissors Lizard Spark)
 - Who Wants to Be a Millionaire
 - Quiz Game
+- Text-Based Adventure
 - Truth or Dare
-- Hangman
-- Tic-Tac-Toe
 - Baby Blackjack
 - Blackjack
+- Hangman
+
+**Lists (or Objects):**
+
 - NYC MetroCard Calculator
-- Class Schedule
+- Bank Account
+- Horoscope
 - Grocery List
 - To-Do List
+- Class Schedule
 - Pokédex
-- Bank Account
 
-Advanced:
+**Advanced Games:**
 
+- Tic-Tac-Toe
 - Battleship
 - Connect Four
 - Snake
 
-Hardware: Raspberry Pi
+**GUI:**
 
 - Alarm Clock with GUI
 - Calculator with GUI
+
+Hardware: Raspberry Pi
+
+
