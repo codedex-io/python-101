@@ -35,7 +35,7 @@
 - Alarm Clock with GUI
 - Calculator with GUI
 
-**God-tier:
+**God-tier:**
 
 - Tron
 - Pong
