@@ -1,4 +1,4 @@
-# 25 Python Project Ideas in the Terminal
+# 25 Terminal Project Ideas (Python Edition)
 
 **Control Flow and Random:**
 
