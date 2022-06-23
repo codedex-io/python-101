@@ -29,6 +29,14 @@
 - Battleship
 - Connect Four
 - Snake
+
+**GUI:**
+
+- Alarm Clock with GUI
+- Calculator with GUI
+
+**God-tier:
+
 - Tron
 - Pong
 - Breakout
@@ -36,11 +44,6 @@
 - 2048
 - Tetris
 - T-Rex Run!
-
-**GUI:**
-
-- Alarm Clock with GUI
-- Calculator with GUI
 
 Hardware: Raspberry Pi
 
