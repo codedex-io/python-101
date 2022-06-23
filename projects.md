@@ -1,5 +1,4 @@
-# 25 Projecsts in Python
-
+# 25 Project Ideas in Python
 
 - Fortune Cookie
 - Dice Rolling Simulator
