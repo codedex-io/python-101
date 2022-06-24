@@ -11,10 +11,10 @@
 - 🙈 Truth or Dare
 - ♣️ Baby Blackjack
 - ♣️ Blackjack
-- Hangman
+- 🪦 Hangman
 - 📏 Metric Conversion Tool (Kilometers <-> Meters <-> Miles)
-- 🔢 Guess My Number
 - 📐 Area Calculator for 2D/3D shapes
+- 🔢 Guess My Number
 - 🔡 Word Counter (Bonus: Include character counter and space counter)
 
 **Lists (or Objects):**
