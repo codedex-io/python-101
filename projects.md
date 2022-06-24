@@ -24,8 +24,10 @@
 - 🪐 Horoscope
 - 🛒 Grocery List
 - 📋 To-Do List
-- 📚 Class Schedule
-- 🦄 Pokédex
+- 💖 Faves List
+- 📝 Class Schedule
+- 📚 Library Management System
+- 🔎 Pokédex
 
 **Games:**
 
