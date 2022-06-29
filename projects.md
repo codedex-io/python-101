@@ -57,6 +57,7 @@
 - 🧱 Tetris
 - 🦖 T-Rex Run!
 - ◼️ Cards Against Humanity
+- 💣 Minesweeper
 - 🎨 Paint
 
 Hardware: Raspberry Pi
