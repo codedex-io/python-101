@@ -38,29 +38,23 @@
 - 🍲 Recipe Book
 - 🔎 Pokédex
 
-**Games:**
+**Advanced:**
 
 - 🪦 Hangman
 - ❌ Tic-Tac-Toe
 - 🚢 Battleship
 - 🔴 Connect Four
 - 🐍 Snake
-
-**GUI:**
-
-- ⏰ Alarm Clock with GUI
-- ➗ Calculator with GUI
-
-**God-tier:**
-
 - 💨 Tron
 - 🏓 Pong
 - 💥 Breakout
 - 👾 Space Invaders
 - 🧠 2048
 - 🟩 Wordle
+- ⏰ GUI Alarm Clock
+- ➗ GUI Calculator
 - 🧱 Tetris
-- 🦖 T-Rex Run!
 - ◼️ Cards Against Humanity
+- 🦖 T-Rex Run!
 - 💣 Minesweeper
 - 🎨 Paint
