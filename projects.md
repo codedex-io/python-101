@@ -30,7 +30,7 @@
 - 🛒 Grocery List
 - 💖 Faves List
 - 📝 Class Schedule
-- 💸 Personal Expenses
+- 💸 Expense Tracker
 - 📓 Personal Journal
 - 📚 Library Management System
 - 🍲 Cookbook
