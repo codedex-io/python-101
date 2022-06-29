@@ -28,14 +28,14 @@
 - 🏦 Bank Account
 - 🪐 Horoscope
 - 📋 To-Do List
-- ☎️ Contact List
 - 🛒 Grocery List
 - 💖 Faves List
 - 📝 Class Schedule
 - 💸 Expense Tracker
 - 📓 Personal Journal
 - 📚 Library Management System
-- 🍲 Cookbook
+- ☎️ Contact Book
+- 🍲 Recipe Book
 - 🔎 Pokédex
 
 **Games:**
