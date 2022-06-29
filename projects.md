@@ -57,6 +57,8 @@
 - 💥 Breakout
 - 👾 Space Invaders
 - 🧠 2048
+- 🔐 Caesar Cipher
+- 🟩 Worldle
 - 🧱 Tetris
 - 🦖 T-Rex Run!
 - ◼️ Cards Against Humanity
