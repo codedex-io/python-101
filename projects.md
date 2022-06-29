@@ -18,6 +18,8 @@
 - 📐 Area Calculator for 2D/3D shapes
 - 🔢 Guess My Number
 - 🔡 Word Counter (Bonus: Include character counter and space counter)
+- 🆘 Morse Code Translator
+- 🏛 Roman Numeral Converter
 - 🚇 NYC MetroCard Calculator
 - 🪦 Hangman
 
