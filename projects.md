@@ -33,6 +33,7 @@
 - 💸 Personal Expenses
 - 📓 Personal Journal
 - 📚 Library Management System
+- 🍲 Cookbook
 - 🔎 Pokédex
 
 **Games:**
