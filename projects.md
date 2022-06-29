@@ -10,6 +10,7 @@
 - ❓ Quiz Game
 - ⚔️ Text-Based Adventure
 - 🙈 Truth or Dare
+- 🗓 Leap Year
 - ♣️ Baby Blackjack
 - ♣️ Blackjack
 - 🪦 Hangman
