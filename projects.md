@@ -21,7 +21,7 @@
 - 🆘 Morse Code Translator
 - 🏛 Roman Numeral Converter
 - 🚇 NYC MetroCard Calculator
-- 🪦 Hangman
+- 🔐 Caesar Cipher
 
 **Lists (or Objects):**
 
@@ -40,6 +40,7 @@
 
 **Games:**
 
+- 🪦 Hangman
 - ❌ Tic-Tac-Toe
 - 🚢 Battleship
 - 🔴 Connect Four
@@ -57,14 +58,9 @@
 - 💥 Breakout
 - 👾 Space Invaders
 - 🧠 2048
-- 🔐 Caesar Cipher
 - 🟩 Wordle
 - 🧱 Tetris
 - 🦖 T-Rex Run!
 - ◼️ Cards Against Humanity
 - 💣 Minesweeper
 - 🎨 Paint
-
-Hardware: Raspberry Pi
-
-
