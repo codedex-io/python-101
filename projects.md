@@ -9,6 +9,7 @@
 - 🤑 Who Wants to Be a Millionaire
 - ❓ Quiz Game
 - ⚔️ Text-Based Adventure
+- 🤖 Chatbot
 - 🙈 Truth or Dare
 - 🗓 Leap Year
 - ♣️ Baby Blackjack
