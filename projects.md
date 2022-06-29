@@ -13,21 +13,23 @@
 - 🗓 Leap Year
 - ♣️ Baby Blackjack
 - ♣️ Blackjack
-- 🪦 Hangman
 - 📏 Metric Conversion Tool (Kilometers <-> Meters <-> Miles)
 - 📐 Area Calculator for 2D/3D shapes
 - 🔢 Guess My Number
 - 🔡 Word Counter (Bonus: Include character counter and space counter)
+- 🚇 NYC MetroCard Calculator
+- 🪦 Hangman
 
 **Lists (or Objects):**
 
-- 🚇 NYC MetroCard Calculator
 - 🏦 Bank Account
 - 🪐 Horoscope
 - 🛒 Grocery List
 - 📋 To-Do List
 - 💖 Faves List
 - 📝 Class Schedule
+- 💸 Personal Expenses
+- 📓 Personal Journal
 - 📚 Library Management System
 - 🔎 Pokédex
 
