@@ -51,6 +51,7 @@
 - 🧠 2048
 - 🧱 Tetris
 - 🦖 T-Rex Run!
+- 🎨 Paint
 
 Hardware: Raspberry Pi
 
