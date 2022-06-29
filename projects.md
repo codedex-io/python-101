@@ -24,8 +24,9 @@
 
 - 🏦 Bank Account
 - 🪐 Horoscope
-- 🛒 Grocery List
 - 📋 To-Do List
+- ☎️ Contact List
+- 🛒 Grocery List
 - 💖 Faves List
 - 📝 Class Schedule
 - 💸 Personal Expenses
