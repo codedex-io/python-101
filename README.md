@@ -46,10 +46,10 @@ Welcome to The Legend of Python GitHub repo! We are super excited to have you. H
 
 ## 5. Lists
 
-- Coming Soon
-- Coming Soon
-- Coming Soon
-- Coming Soon
+- [`grocery.py`](https://github.com/codedex-io/python-101/blob/main/5-lists/grocery.py)
+- [`todo.py`](https://github.com/codedex-io/python-101/blob/main/5-lists/todo.py)
+- [`inventory.py`](https://github.com/codedex-io/python-101/blob/main/5-lists/inventory.py)
+- [`reading.py`](https://github.com/codedex-io/python-101/blob/main/5-lists/reading.py)
 - Coming Soon
 
 ---
