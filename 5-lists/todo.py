@@ -1,4 +1,4 @@
-# Todo ✔️
+# To-Do List ✅
 # Codédex
 
 todo = ['🏦 Get quarters.', 
