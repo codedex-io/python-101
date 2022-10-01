@@ -1,4 +1,4 @@
-# Grocery 📋
+# Grocery List 🛒
 # Codédex
 
 grocery = ['🥚 Eggs', 
