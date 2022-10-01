@@ -44,7 +44,7 @@ Welcome to The Legend of Python GitHub repo! We are super excited to have you. H
 - [`99_bottles.py`](https://github.com/codedex-io/python-101/blob/main/4-loops/99_bottles.py)
 - [`fizz_buzz.py`](https://github.com/codedex-io/python-101/blob/main/4-loops/fizz_buzz.py)
 
-## 5. Lists
+## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_lists.png" height="20"> Lists
 
 - [`grocery.py`](https://github.com/codedex-io/python-101/blob/main/5-lists/grocery.py)
 - [`todo.py`](https://github.com/codedex-io/python-101/blob/main/5-lists/todo.py)
