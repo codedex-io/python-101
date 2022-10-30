@@ -1,11 +1,11 @@
 # pH Levels 🧪
 # Codédex
 
-ph = int(input("Enter a pH level (0-14): "))
+ph = int(input('Enter a pH level (0-14): '))
 
 if ph > 7:
-  print("Basic")
+  print('Basic')
 elif ph < 7:
-  print("Acidic")
+  print('Acidic')
 else:
-  print("Neutral")
+  print('Neutral')
