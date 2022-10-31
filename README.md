@@ -50,7 +50,8 @@ Welcome to The Legend of Python GitHub repo! We are super excited to have you. H
 - [`todo.py`](https://github.com/codedex-io/python-101/blob/main/5-lists/todo.py)
 - [`inventory.py`](https://github.com/codedex-io/python-101/blob/main/5-lists/inventory.py)
 - [`reading.py`](https://github.com/codedex-io/python-101/blob/main/5-lists/reading.py)
-- Coming Soon
+- [`mixtape.py`](https://github.com/codedex-io/python-101/blob/main/5-lists/mixtape.py)
+- [`bucket_list.py`](https://github.com/codedex-io/python-101/blob/main/5-lists/bucket_list.py)
 
 ---
 
