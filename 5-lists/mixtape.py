@@ -1,7 +1,5 @@
-# 💿 Mixtape
+# 💿 Mixtape: Classical Relaxation Theme
 # Codédex
-
-# 🎻 Theme: Classical Relaxation
 
 playlist = ['Johannes Brahms - Symphony No.1 in C Minor, Op. 68', 
             'Erik Satie - Gymnopédie No.1', 
