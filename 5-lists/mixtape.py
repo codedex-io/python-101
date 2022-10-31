@@ -1,4 +1,4 @@
-# 💿 Mixtape: Classical Relaxation Theme
+# Mixtape: Classical Relaxation Theme 💿
 # Codédex
 
 playlist = ['Johannes Brahms - Symphony No.1 in C Minor, Op. 68', 
