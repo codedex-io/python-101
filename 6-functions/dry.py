@@ -11,7 +11,7 @@ print('Hello, World!')
 # This function calculates the maximum of two numbers a and b
 print(max(3, 5))
 
-# This function calculates the minmum of two numbers a and b
+# This function calculates the minimum of two numbers a and b
 print(min(-1, 7))
 
 # This function calculates the length of a list
