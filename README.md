@@ -53,6 +53,15 @@ Welcome to The Legend of Python GitHub repo! We are super excited to have you. H
 - [`mixtape.py`](https://github.com/codedex-io/python-101/blob/main/5-lists/mixtape.py)
 - [`bucket_list.py`](https://github.com/codedex-io/python-101/blob/main/5-lists/bucket_list.py)
 
+## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_lists.png" height="20"> Functions
+
+- [`dry.py`](https://github.com/codedex-io/python-101/blob/main/6-functions/dry.py)
+- [`fortune_cookie.py`](https://github.com/codedex-io/python-101/blob/main/6-functions/fortune_cookie.py)
+- [`rocket.py`](https://github.com/codedex-io/python-101/blob/main/6-functions/rocket.py)
+- [`calculator.py`](https://github.com/codedex-io/python-101/blob/main/6-functions/calculator.py)
+- [`stonks.py`](https://github.com/codedex-io/python-101/blob/main/6-functions/stonks.py)
+- [`drive_thru.py`](https://github.com/codedex-io/python-101/blob/main/6-functions/drive_thru.py)
+
 ---
 
-Make sure to join the Codédex Club or Workshops for more problems! 💖
+Make sure to join the [Codédex Club or Workshops](https://www.codedex.io/community) for more problems! 💖
