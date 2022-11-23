@@ -9,6 +9,7 @@ books = ['Zero to One',
 
 print(books)
 
+books.append('Zero to Sold')
 books.remove('Zero to One')
 books.pop(0)
 
