@@ -1,87 +1,60 @@
 # Sorting Hat 🧙‍♂️
 # Codédex
 
-gryffindor = 0
-hufflepuff = 0
-ravenclaw = 0
-slytherin = 0
-
-print('===============')
-print('The Sorting Hat')
-print('===============')
-
-# ~~~~~~~~~~~~~~~ Question 1 ~~~~~~~~~~~~~~~
-
+Gryffindor = 0
+Ravenclaw = 0
+Hufflepuff = 0
+Slytherin = 0
 print('Q1) Do you like Dawn or Dusk?')
-
-print('  1) Dawn')
-print('  2) Dusk')
-
-answer = int(input('Enter answer (1-2): '))
-
-if answer == 1:
-  gryffindor += 1
-  ravenclaw += 1
-elif answer == 2:
-  hufflepuff += 1
-  slytherin +=1
+q1=int(input('1) Dawn  \n2) Dusk\n'))
+if q1==1:
+    Gryffindor = Gryffindor + 1
+    Ravenclaw = Ravenclaw + 1
+elif q1==2:
+    Hufflepuff = Hufflepuff + 1
+    Slytherin = Slytherin + 1
 else:
-  print('Wrong input.')
+    print('Wrong Input')
 
-# ~~~~~~~~~~~~~~~ Question 2 ~~~~~~~~~~~~~~~
 
-print("\nQ2) When I'm dead, I want people to remember me as:")
-
-print('  1) The Good')
-print('  2) The Great')
-print('  3) The Wise')
-print('  4) The Bold')
-
-answer = int(input('Enter your answer (1-4): '))
-
-if answer == 1:
-  hufflepuff += 1
-elif answer == 2:
-  slytherin +=1
-elif answer == 3:
-  ravenclaw +=1
-elif answer == 4:
-  gryffindor +=1
+print('Q2) When I’m dead, I want people to remember me as:')
+q2=int(input('1) The God \n2) The Great \n3) The Wise \n4) The Bold\n'))
+if q2==1:
+    Hufflepuff = Hufflepuff + 1
+elif q2==2:
+    Slytherin = Slytherin + 1
+elif q2==3:
+    Ravenclaw = Ravenclaw + 1
+elif q2==4:
+    Gryffindor = Gryffindor +1
 else:
-  print('Wrong input.')
+    print('Wrong input')
 
-# ~~~~~~~~~~~~~~~ Question 3 ~~~~~~~~~~~~~~~
-
-print('\nQ3) Which kind of instrument most pleases your ear?')
-
-print('  1) The violin')
-print('  2) The trumpet')
-print('  3) The piano')
-print('  4) The drum')
-
-answer = int(input('Enter your answer (1-4): '))
-
-if answer == 1:
-  slytherin +=1
-elif answer == 2:
-  hufflepuff +=1
-elif answer == 3:
-  ravenclaw +=1
-elif answer == 4:
-  gryffindor +=1
+print('Q3) Which kind of instrument most pleases your ear?')
+q3=int(input('1) The violin\n2) The trumpet\n3) The piano\n4) The drum\n'))
+if q3==1:
+    Slytherin = Slytherin + 1
+elif q3==2:
+    Hufflepuff = Hufflepuff + 1
+elif q3==3:
+    Ravenclaw = Ravenclaw + 1
+elif q3==4:
+    Gryffindor = Gryffindor + 1
 else:
-  print('Wrong input.')
-  
-print(gryffindor)
-print(ravenclaw)
-print(hufflepuff)
-print(slytherin)
+    print('Wrong Input')
 
-if gryffindor >= ravenclaw and gryffindor >= hufflepuff and gryffindor >= slytherin:
-  print('🦁 Gryffindor!')
-elif ravenclaw >= hufflepuff and ravenclaw >= slytherin:
-  print('🦅 Ravenclaw!')
-elif hufflepuff >= slytherin:
-  print('🦡 Hufflepuff!')
+print('Gryffindor: ' ,Gryffindor )
+print('Ravenclaw: ' ,Ravenclaw)
+print('Hufflepuff: ' ,Hufflepuff)
+print('Slytherin: ' ,Slytherin)
+
+if Gryffindor > Ravenclaw and Gryffindor > Hufflepuff and Gryffindor > Slytherin:
+    print('Gryffindor')
+elif Ravenclaw > Gryffindor and Ravenclaw > Hufflepuff and Ravenclaw >  Slytherin:
+    print('Ravenclaw')
+elif Hufflepuff > Gryffindor and Hufflepuff > Ravenclaw and Hufflepuff > Slytherin:
+    print('Hufflepuff')
+elif Slytherin > Gryffindor and Slytherin > Ravenclaw and Slytherin > Hufflepuff:
+    print('Slytherin')
 else:
-  print('🐍 Slytherin!')
+    print('You belong to no place')
