@@ -9,17 +9,12 @@ Welcome to The Legend of Python GitHub repo! We are super excited to have you. H
 
 ### Website: www.codedex.io
 
-
 ## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_earth.png" height="20" style="position: relative; top: 50%; transform: translateY(-50%);"> Hello World
 
 - [`hello_world.py`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/hello_world.py)
 - [`pattern.py`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/pattern.py)
 - [`initials.py`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/initials.py)
-- [`snail_mail.py`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/letter.py)
-
-**Community:**
-
-- Make a PR
+- [`letter.py`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/letter.py)
 
 ## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_equal.png" height="21" style="vertical-align: middle"> Variables
 
