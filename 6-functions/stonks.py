@@ -19,5 +19,5 @@ def min_price(a, b):
   return mn
 
 print(max_price(1, 15))
-print(min_price(10, 20))
+print(min_price(5, 10))
 print(price_at(3))
