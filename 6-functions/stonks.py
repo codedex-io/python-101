@@ -1,7 +1,7 @@
 # Stonks 📈
 # Codédex
 
-stock_prices = [ 95.91, 93.8, 94.38, 96.27, 96.42, 95.54, 95.13, 93.89, 90.11, 91.05, 92.39, 95.23, 95.87, 96.35, 95.96, 97.44, 96.58, 98.23, 98.64, 100.72 ]
+stock_prices = [ 6.15, 5.81, 5.70, 5.65, 5.33, 5.62, 5.19, 6.13, 7.20, 7.34, 7.95, 7.53, 7.39, 7.59, 7.27 ]
 
 def price_at(i):
   return stock_prices[i-1]
@@ -18,6 +18,6 @@ def min_price(a, b):
     mn = min(mn, price_at(i))
   return mn
 
-print(max_price(1, 21))
+print(max_price(1, 15))
 print(min_price(10, 20))
 print(price_at(3))
