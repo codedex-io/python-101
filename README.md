@@ -30,8 +30,8 @@ Welcome to The Legend of Python GitHub repo! We are super excited to have you. H
 - [`ph_levels.py`](https://github.com/codedex-io/python-101/blob/main/3-control-flow/13_ph_levels.py)
 - [`magic_8_ball.py`](https://github.com/codedex-io/python-101/blob/main/3-control-flow/14_magic_8_ball.py)
 - [`the_cyclone.py`](https://github.com/codedex-io/python-101/blob/main/3-control-flow/15_the_cyclone.py)
-- [`sorting_hat.py` (solution 1)](https://github.com/codedex-io/python-101/blob/main/3-control-flow/16_sorting_hat_1.py)
-- [`sorting_hat.py` (solution 2)](https://github.com/codedex-io/python-101/blob/main/3-control-flow/16_sorting_hat_2.py)
+- [`sorting_hat.py`](https://github.com/codedex-io/python-101/blob/main/3-control-flow/16_sorting_hat_1.py) (solution 1)
+- [`sorting_hat.py`](https://github.com/codedex-io/python-101/blob/main/3-control-flow/16_sorting_hat_2.py) (solution 2)
 
 ## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_loop.png" height="18"> Loops
 
@@ -53,8 +53,8 @@ Welcome to The Legend of Python GitHub repo! We are super excited to have you. H
 ## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge-6-functions.png" height="20"> Functions
 
 - [`dry.py`](https://github.com/codedex-io/python-101/blob/main/6-functions/28_dry.py)
-- [`fortune_cookie.py` (solution 1)](https://github.com/codedex-io/python-101/blob/main/6-functions/29_fortune_cookie_1.py)
-- [`fortune_cookie.py` (solution 2)](https://github.com/codedex-io/python-101/blob/main/6-functions/29_fortune_cookie_2.py)
+- [`fortune_cookie.py`](https://github.com/codedex-io/python-101/blob/main/6-functions/29_fortune_cookie_1.py) (solution 1)
+- [`fortune_cookie.py`](https://github.com/codedex-io/python-101/blob/main/6-functions/29_fortune_cookie_2.py) (solution 2)
 - [`rocket.py`](https://github.com/codedex-io/python-101/blob/main/6-functions/30_rocket.py)
 - [`calculator.py`](https://github.com/codedex-io/python-101/blob/main/6-functions/31_calculator.py)
 - [`stonks.py`](https://github.com/codedex-io/python-101/blob/main/6-functions/32_stonks.py)
