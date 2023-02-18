@@ -1,17 +1,17 @@
 # The Cyclone 🎢
 # Codédex
 
-myHeight = 250
+height = 250
 credits = 10
-withTallerPerson = False
+with_taller_person = False
 
-if myHeight >= 200 and credits >= 10:
+if height >= 200 and credits >= 10:
   print("Enjoy the ride!")
 
-if myHeight < 200:
-  if myHeight < 100 or not withTallerPerson:
+if height < 200:
+  if height < 100 or not with_taller_person:
     print("You're not tall enough for this ride yet.")
-  elif myHeight >= 100 and withTallerPerson:
+  elif height >= 100 and with_taller_person:
     print("Enjoy the ride!")
 
 if credits < 10:
