@@ -15,4 +15,3 @@ shanghai = City("Shanghai", "China", 26320000, ["The Bund", "Jin Mao Tower", "Ti
 
 print(vars(nyc))
 print(vars(shanghai))
-      
