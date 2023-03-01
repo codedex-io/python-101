@@ -3,7 +3,6 @@
 
 height = 250
 credits = 10
-with_taller_person = False
 
 if height >= 137 and credits >= 10:
   print("Enjoy the ride!")
