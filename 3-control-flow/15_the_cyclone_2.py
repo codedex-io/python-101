@@ -13,6 +13,6 @@ elif height < 137:
   if height < 100 or not with_taller_person:
     print("You're not tall enough for this ride yet.")
   elif height >= 100 and with_taller_person:
-    print("Enjoy the ride!")
+    print("Enjoy the ride, folks!")
 else:
   print("Invalid data.")
