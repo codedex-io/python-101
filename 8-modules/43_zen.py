@@ -1,4 +1,4 @@
-# Zen of Python 🐍
+# The Zen of Python 📜
 # Codédex
 
 import this
