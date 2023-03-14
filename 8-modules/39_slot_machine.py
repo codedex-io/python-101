@@ -3,29 +3,30 @@
 
 import random
 
-slot_machine_symbols = [
+symbols = [
   '🍒',
   '🍇',
   '🍉',
   '7️⃣'
 ]
 
-def play_slots():
-  results = random.choices(slot_machine_symbols, k=3)
-  all_sevens = results[0] == '7️⃣' and results[1] == '7️⃣' and results[2] == '7️⃣'
+def play():
+  results = random.choices(symbols, k=3)
+  win = results[0] == '7️⃣' and results[1] == '7️⃣' and results[2] == '7️⃣'
 
-  while not all_sevens:    
+  for i in range(50):    
     print(f'{results[0]} | {results[1]} | {results[2]}')
-    all_sevens = results[0] == '7️⃣' and results[1] == '7️⃣' and results[2] == '7️⃣'
+    win = results[0] == '7️⃣' and results[1] == '7️⃣' and results[2] == '7️⃣'
 
-    if all_sevens:
+    if win:
       print("Jackpot!!! 💰")
+      break
     else:
-      results = random.choices(slot_machine_symbols, k=3)
-answer = "Y"
+      results = random.choices(symbols, k=3)
 
+answer = "Y"
 while answer.upper() != "N":
-  play_slots()
+  play()
   answer = input("Keep playing? (Y/N) ")
 
 print("Thanks for playing!")
