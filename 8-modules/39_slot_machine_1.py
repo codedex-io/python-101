@@ -4,10 +4,10 @@
 import random
 
 symbols = [
- '🍒',
- '🍇',
- '🍉',
- '7️⃣'
+  '🍒',
+  '🍇',
+  '🍉',
+  '7️⃣'
 ]
 
 results = random.choices(symbols, k=3)
