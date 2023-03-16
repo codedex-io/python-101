@@ -1,8 +1,7 @@
 # Solar System 🪐
 # Codédex
 
-from math import pi
-from random import choice as ch
+from math import pi; from random import choice as ch
 
 planets = [
  'Mercury',
