@@ -17,5 +17,5 @@ print(min(-1, 7))
 # This function calculates the length of a list
 print(len(list_of_foods))
 
-# This function calculates the a to the power b
+# This function calculates a to the power b
 print(pow(2, 6))
