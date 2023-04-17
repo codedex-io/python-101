@@ -24,7 +24,7 @@ class Pokemon:
     else:
       print('Type: ' + self.type[0] + '/' + self.type[1])
     
-    print('Lv. ' + self.level)
+    print('Lv. ' + str(self.level))
     print('Region: ' + self.region)
     print('Description: ' + self.description)
 
@@ -39,6 +39,3 @@ pikachu = Pokemon("Pikachu", ["Electric"], "	It has small electric sacs on both 
 charizard = Pokemon("Charizard", ["Fire", "Flying"], "	It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.", 36, "Kanto", False)
 
 gyarados = Pokemon("Gyarados", ["Water", "Flying"], "It has an extremely aggressive nature. The HYPER BEAM it shoots from its mouth totally incinerates all targets.", 57, "Kanto", False)
-
-
-
