@@ -29,4 +29,4 @@ else:
 
 planet_area = 4 * pi * radius * radius
 
-print(f'Area of {random_planet}: {planet_area} km2')
+print(f'Area of {random_planet}: {planet_area} sq mi')
