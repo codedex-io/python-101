@@ -1,10 +1,10 @@
 # Currency 💵
 # Codédex
 
-yuan = int(input('What do you have left in yuan? '))
-yen = int(input('What do you have left in yen? '))
-won = int(input('What do you have left in won? '))
+pesos = int(input('What do you have left in pesos? '))
+soles = int(input('What do you have left in soles? '))
+reais = int(input('What do you have left in reais? '))
 
-total = yuan * 0.15 + yen * 0.0077 + won * 0.00080
+total = pesos * 0.058 + soles * 0.28 + reais * 0.21
 
 print(total)
