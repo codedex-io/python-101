@@ -60,6 +60,24 @@ Welcome to The Legend of Python GitHub repo! We are super excited to have you. H
 - [`stonks.py`](https://github.com/codedex-io/python-101/blob/main/6-functions/32_stonks.py)
 - [`drive_thru.py`](https://github.com/codedex-io/python-101/blob/main/6-functions/33_drive_thru.py)
 
+## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_classes_and_objects.png" height="20"> Classes & Objects
+
+- [`restaurants.py`](https://github.com/codedex-io/python-101/blob/main/7-classes-objects/34_restaurants.py)
+- [`bobs_burgers.py`](https://github.com/codedex-io/python-101/blob/main/7-classes-objects/35_bobs_burgers.py)
+- [`favorite_cities.py`](https://github.com/codedex-io/python-101/blob/main/7-classes-objects/36_favorite_cities.py)
+- [`bank_accounts.py`](https://github.com/codedex-io/python-101/blob/main/7-classes-objects/37_bank_accounts.py)
+- [`pokedex.py`](https://github.com/codedex-io/python-101/blob/main/7-classes-objects/38_pokedex.py)
+
+## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_modules.png" height="20"> Modules
+
+- [`slot_machine.py`](https://github.com/codedex-io/python-101/blob/main/8-modules/39_slot_machine_1.py) (solution 1)
+- [`slot_machine.py`](https://github.com/codedex-io/python-101/blob/main/8-modules/39_slot_machine_2.py) (solution 2)
+- [`solar_system.py`](https://github.com/codedex-io/python-101/blob/main/8-modules/40_solar_system.py)
+- [`bday_messages.py`](https://github.com/codedex-io/python-101/blob/main/8-modules/41_bday_messages.py) (for exercise 41)
+- [`main.py`](https://github.com/codedex-io/python-101/blob/main/8-modules/41_main.py) (for exercise 41)
+- [`forty_two.py`](https://github.com/codedex-io/python-101/blob/main/8-modules/42_forty_two.py)
+- [`zen.py`](https://github.com/codedex-io/python-101/blob/main/8-modules/43_zen.py)
+
 ---
 
 Make sure to join the [Codédex Club or Workshops](https://www.codedex.io/community) for more problems! 💖
