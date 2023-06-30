@@ -23,7 +23,7 @@ Welcome to The Legend of Python GitHub repo! We are super excited to have you. H
 - [`quadratic.py`](https://github.com/codedex-io/python-101/blob/main/2-variables/09_quadratic.py)
 - [`currency.py`](https://github.com/codedex-io/python-101/blob/main/2-variables/10_currency.py)
 
-## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_fork.png" height="20" style="vertical-align: middle"> Control Flow
+## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_fork.png" height="20"> Control Flow
 
 - [`coin_flip.py`](https://github.com/codedex-io/python-101/blob/main/3-control-flow/11_coin_flip.py)
 - [`grades.py`](https://github.com/codedex-io/python-101/blob/main/3-control-flow/12_grades.py)
@@ -41,7 +41,7 @@ Welcome to The Legend of Python GitHub repo! We are super excited to have you. H
 - [`99_bottles.py`](https://github.com/codedex-io/python-101/blob/main/4-loops/20_99_bottles.py)
 - [`fizz_buzz.py`](https://github.com/codedex-io/python-101/blob/main/4-loops/21_fizz_buzz.py)
 
-## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_lists.png" height="20"> Lists
+## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_lists.png" height="20" style="vertical-align: middle;"> Lists
 
 - [`grocery.py`](https://github.com/codedex-io/python-101/blob/main/5-lists/22_grocery.py)
 - [`todo.py`](https://github.com/codedex-io/python-101/blob/main/5-lists/23_todo.py)
@@ -60,7 +60,7 @@ Welcome to The Legend of Python GitHub repo! We are super excited to have you. H
 - [`stonks.py`](https://github.com/codedex-io/python-101/blob/main/6-functions/32_stonks.py)
 - [`drive_thru.py`](https://github.com/codedex-io/python-101/blob/main/6-functions/33_drive_thru.py)
 
-## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_classes_and_objects.png" height="20"> Classes & Objects
+## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_classes_and_objects.png" height="20" style="vertical-align: middle;"> Classes & Objects
 
 - [`restaurants.py`](https://github.com/codedex-io/python-101/blob/main/7-classes-objects/34_restaurants.py)
 - [`bobs_burgers.py`](https://github.com/codedex-io/python-101/blob/main/7-classes-objects/35_bobs_burgers.py)
