@@ -8,13 +8,13 @@ def price_at(i):
 
 def max_price(a, b):
   mx = 0
-  for i in range(a, b):
+  for i in range(a, b + 1):
     mx = max(mx, price_at(i))
   return mx
 
 def min_price(a, b):
   mn = price_at(a)
-  for i in range(a, b):
+  for i in range(a, b + 1):
     mn = min(mn, price_at(i))
   return mn
 
