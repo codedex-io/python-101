@@ -1,7 +1,7 @@
 # The Cyclone 🎢
 # Codédex
 
-is_open = False
+is_open = True
 
 height = int(input('What is your height (cm)? '))
 credits = int(input('How many credits do you have? '))
