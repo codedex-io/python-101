@@ -1,10 +1,10 @@
-# Bucket List: Jerry Zhu 
+# Bucket List: Jerry Zhu (Codédex Intern)
 # Codédex
 
 things_to_do = [
-   '🚀 Build a menaingful product for everyone.',
-   '⛰ Try out hiking and mountain biking.',
    '🌏 Visit at least 10 countries in my lifetime.',
+   '🚲 Try out mountain biking.',
+   '🚀 Build a menaingful product for everyone.',
    '🎸 Produce an original song.',
    '📝 Write a short story.',
    '🏃 Finish a 10k marathon.'
