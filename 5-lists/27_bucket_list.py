@@ -1,4 +1,4 @@
-# Bucket List: Jerry Zhu (Codédex Intern)
+# Bucket List: Jerry Zhu (Codédex Intern) 💭
 # Codédex
 
 things_to_do = [
