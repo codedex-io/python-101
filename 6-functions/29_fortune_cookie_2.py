@@ -15,7 +15,7 @@ options = [
 ]
 
 def fortune():
-  random_fortune = random.randint(0, len(options) - 1)
+  random_fortune = random.randint(0, 7)
   print(options[random_fortune])
 
 fortune()
