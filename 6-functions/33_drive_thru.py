@@ -16,7 +16,7 @@ def get_item(x):
     return "invalid option"
 
 def welcome():
-  print('Welcome to In-N-Out Burger!\n')
+  print('Welcome to In-N-Out Burger!')
   print('Here\'s the menu:\n')
   print('1️⃣ 🍔 Double-Double   $4.90')
   print('2️⃣ 🍔 Cheeseburger    $3.50')
