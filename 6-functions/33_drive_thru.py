@@ -3,26 +3,26 @@
 
 def get_item(x):
   if x == 1:
-    return '🍔 Cheeseburger'
+    return '🍔 Double-Double'
   elif x == 2:
-    return '🍟 Fries'
+    return '🍔 Cheeseburger'
   elif x == 3:
-    return '🥤 Soda'
+    return '🍔 Hamburger'
   elif x == 4:
-    return '🍦 Ice Cream'
+    return '🍟 French Fries'
   elif x == 5:
-    return '🍪 Cookie'
+    return '🥛 Shakes'
   else:
     return "invalid option"
 
 def welcome():
-  print('Welcome to Sonnyboy\'s Diner!')
-  print('Here\'s the menu:')
-  print('1️⃣ 🍔 Cheeseburger')
-  print('2️⃣ 🍟 Fries')
-  print('3️⃣ 🥤 Soda')
-  print('4️⃣ 🍦 Ice Cream')
-  print('5️⃣ 🍪 Cookie')
+  print('Welcome to In-N-Out Burger!\n')
+  print('Here\'s the menu:\n')
+  print('1️⃣ 🍔 Double-Double   $4.90')
+  print('2️⃣ 🍔 Cheeseburger    $3.50')
+  print('3️⃣ 🍔 Hamburger       $3.15')
+  print('4️⃣ 🍟 French Fries    $2.15')
+  print('5️⃣ 🥛 Shakes          $2.80\n')
 
 welcome()
 
