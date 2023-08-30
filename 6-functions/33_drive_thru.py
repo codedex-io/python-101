@@ -18,11 +18,11 @@ def get_item(x):
 def welcome():
   print('Welcome to In-N-Out Burger!')
   print('Here\'s the menu:\n')
-  print('1️⃣ 🍔 Double-Double   $4.90')
-  print('2️⃣ 🍔 Cheeseburger    $3.50')
-  print('3️⃣ 🍔 Hamburger       $3.15')
-  print('4️⃣ 🍟 French Fries    $2.15')
-  print('5️⃣ 🥛 Shakes          $2.80\n')
+  print('1️⃣ 🍔 Double-Double   $5.15')
+  print('2️⃣ 🍔 Cheeseburger    $3.65')
+  print('3️⃣ 🍔 Hamburger       $3.25')
+  print('4️⃣ 🍟 French Fries    $2.20')
+  print('5️⃣ 🥛 Shakes          $2.85\n')
 
 welcome()
 
