@@ -18,11 +18,11 @@ def get_item(x):
 def welcome():
   print('Welcome to Sonnyboy\'s Diner!')
   print('Here\'s the menu:')
-  print('1. 🍔 Cheeseburger')
-  print('2. 🍟 Fries')
-  print('3. 🥤 Soda')
-  print('4. 🍦 Ice Cream')
-  print('5. 🍪 Cookie')
+  print('1️⃣ 🍔 Cheeseburger')
+  print('2️⃣ 🍟 Fries')
+  print('3️⃣ 🥤 Soda')
+  print('4️⃣ 🍦 Ice Cream')
+  print('5️⃣ 🍪 Cookie')
 
 welcome()
 
