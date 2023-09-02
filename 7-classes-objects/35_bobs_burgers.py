@@ -24,3 +24,7 @@ baekjeong.name = 'Baekjeong NYC'
 baekjeong.category = 'Korean BBQ'
 baekjeong.rating = 4.4
 baekjeong.delivery = False
+
+print(vars(bobs_burgers))
+print(vars(katz_deli))
+print(vars(baekjeong))
