@@ -12,7 +12,7 @@ class Pokemon:
     self.is_caught = is_caught
 
   def speak(self):
-    print(self.name + ' made a sound!')
+    print(self.name + ', ' + self.name + '!')
   
   def display_details(self):
     print('Name: ' + self.name)
