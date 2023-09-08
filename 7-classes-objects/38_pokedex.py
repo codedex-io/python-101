@@ -11,11 +11,9 @@ class Pokemon:
     self.region = region
     self.is_caught = is_caught
 
-  # Instance method
   def speak(self):
     print(self.name + ' made a sound!')
   
-  # Instance method
   def display_details(self):
     print('Name: ' + self.name)
 
