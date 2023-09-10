@@ -11,7 +11,6 @@ symbols = [
 ]
 
 def play():
-
   for i in range(1, 51):    
     results = random.choices(symbols, k=3)
     print(f'{results[0]} | {results[1]} | {results[2]}')
@@ -24,6 +23,7 @@ def play():
       results = random.choices(symbols, k=3)
 
 answer = ''
+
 while answer.upper() != 'N':
   play()
   answer = input('Keep playing? (Y/N) ')
