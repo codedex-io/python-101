@@ -1,4 +1,4 @@
-# Forty Two 4️⃣2️⃣
+# Forty Two 🔮
 # Codédex
 
 import wikipedia
