@@ -1,8 +1,13 @@
 # The Cyclone 🎢
 # Codédex
 
-height = int(input('What is your height (cm)? '))
-credits = int(input('How many credits do you have? '))
+while True:
+  try:
+    height = int(input('What is your height (cm)? '))
+    credits = int(input('How many credits do you have? '))
+    break;
+  except ValueError:
+    print('Please answer with integer values')
 
 if height >= 137 and credits >= 10:
   print("Enjoy the ride!")
