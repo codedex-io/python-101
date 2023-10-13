@@ -3,7 +3,7 @@
 
 import random
 
-question = input('Is Codédex better than Udemy yet?') # Replace with your own question
+question = 'Is Codédex better than Udemy yet?' # Replace with your own question
 
 random_number = random.randint(1, 9)
 
