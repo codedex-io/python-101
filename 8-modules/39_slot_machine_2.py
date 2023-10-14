@@ -3,12 +3,10 @@
 
 import random
 
-symbols = [
-  '🍒',
-  '🍇',
-  '🍉',
-  '7️⃣'
-]
+symbols = ['🍒',
+           '🍇',
+           '🍉',
+           '7️⃣']
 
 def play():
   for i in range(1, 51):    
@@ -19,8 +17,7 @@ def play():
     if win:
       print('Jackpot!!! 💰')
       break
-    else:
-      results = random.choices(symbols, k=3)
+      
 
 answer = ''
 
