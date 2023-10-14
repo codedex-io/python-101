@@ -4,13 +4,11 @@
 from math import pi
 from random import choice as ch
 
-planets = [
- 'Mercury',
- 'Venus',
- 'Earth',
- 'Mars',
- 'Saturn'
-]
+planets = ['Mercury',
+           'Venus',
+           'Earth',
+           'Mars',
+           'Saturn']
 
 random_planet = ch(planets)
 radius = 0
@@ -28,6 +26,5 @@ elif random_planet == 'Saturn':
 else:
   print('Oops! An error occurred.')
 
-planet_area = 4 * pi * radius * radius
-
+planet_area = 4 * pi * radius ** 2
 print(f'Area of {random_planet}: {planet_area} km²')
