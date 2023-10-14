@@ -2,15 +2,15 @@
 # Codédex
   
 def get_item(x):
-  if x == 1:
+  if x == '1':
     return '🍔 Double-Double'
-  elif x == 2:
+  elif x == '2':
     return '🍔 Cheeseburger'
-  elif x == 3:
+  elif x == '3':
     return '🍔 Hamburger'
-  elif x == 4:
+  elif x == '4':
     return '🍟 French Fries'
-  elif x == 5:
+  elif x == '5':
     return '🥛 Shakes'
   else:
     return "invalid option"
@@ -26,5 +26,5 @@ def welcome():
   
 welcome()
 
-option = int(input('What would you like to order? '))
+option = input('What would you like to order? ')
 print(get_item(option))
