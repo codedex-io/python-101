@@ -11,6 +11,7 @@ todo = ['🏦 Get quarters.',
         '📺 Watch My Hero Academia.']
 
 print(todo[0])
+print(todo[-1])
 print(todo[1])
 print(todo[2 : 5])
 print(todo[9]) # IndexError
