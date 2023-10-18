@@ -24,7 +24,7 @@ if answer == 1:
   ravenclaw += 1
 elif answer == 2:
   hufflepuff += 1
-  slytherin +=1
+  slytherin += 1
 else:
   print('Wrong input.')
 
