@@ -1,9 +1,7 @@
 # D.R.Y. 🧩
 # Codédex
 
-import random
 
-coffee_menu = ['drip coffee', 'cold brew', 'cappuccino', 'latte', 'mocha', 'espresso']
 
 # This was the first function introduced in the course
 print('Hello World!')
