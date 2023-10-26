@@ -32,6 +32,6 @@ class Pokemon:
       print(self.name + ' hasn\'t been caught yet.')
 
 # Pokémon objects
-pikachu = Pokemon('Pikachu', ['Electric'], 'It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.', 25, 'Kanto', True)
+pikachu = Pokemon('Pikachu', ['Electric'], 'It has small electric sacs on both its cheeks. If threatened, it loses electric charges from the sacs.', 25, 'Kanto', True)
 charizard = Pokemon('Charizard', ['Fire', 'Flying'], 'It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.', 36, 'Kanto', False)
 gyarados = Pokemon('Gyarados', ['Water', 'Flying'], 'It has an extremely aggressive nature. The HYPER BEAM it shoots from its mouth totally incinerates all targets.', 57, 'Kanto', False)
