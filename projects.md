@@ -5,7 +5,7 @@
 - 🥠 Fortune Cookie
 - 🎲 Dice Rolling Simulator
 - 🫱 Rock Paper Scisssors
-- 🫱 Rock Paper Scissors Lizard Spark
+- 🫱 Rock Paper Scissors Lizard Spock
 - 🤑 Who Wants to Be a Millionaire
 - ❓ Quiz Game
 - ⚔️ Text-Based Adventure
