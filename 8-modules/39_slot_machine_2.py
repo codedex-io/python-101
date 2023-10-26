@@ -11,16 +11,14 @@ symbols = [
 ]
 
 def play():
-  for i in range(1, 51):    
-    results = random.choices(symbols, k=3)
-    print(f'{results[0]} | {results[1]} | {results[2]}')
-    win = results[0] == '7️⃣' and results[1] == '7️⃣' and results[2] == '7️⃣'
+  results = random.choices(symbols, k=3)
+  print(f'{results[0]} | {results[1]} | {results[2]}')
+  win = results[0] == '7️⃣' and results[1] == '7️⃣' and results[2] == '7️⃣'
 
-    if win:
-      print('Jackpot!!! 💰')
-      break
-    else:
-      results = random.choices(symbols, k=3)
+  if win:
+    print('Jackpot!!! 💰')
+  else:
+    results = random.choices(symbols, k=3)
 
 answer = ''
 
