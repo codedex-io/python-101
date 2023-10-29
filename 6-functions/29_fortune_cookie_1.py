@@ -33,8 +33,6 @@ def fortune():
     option = options[6]
   elif random_fortune == 7:
     option = options[7]
-  elif random_fortune == 8:
-    option = options[8]
   else:
     option = 'Error'
 
