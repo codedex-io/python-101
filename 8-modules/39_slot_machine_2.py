@@ -17,6 +17,8 @@ def play():
 
   if win:
     print('Jackpot!!! 💰')
+  else:
+    print('No jackpot this time. 😢')
 
 answer = ''
 
