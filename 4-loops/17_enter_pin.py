@@ -1,7 +1,7 @@
 # Enter PIN 🏦
 # Codédex
 
-print('=== BANK OF CODéDEX ===')  
+print('=== BANK OF CODéDEX ===')
 
 pin = int(input('Enter your PIN: '))
 
