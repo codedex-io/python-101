@@ -3,7 +3,7 @@
 
 import random
 
-question = input()
+question = input('Question:      ')
 
 random_number = random.randint(1, 9)
 
