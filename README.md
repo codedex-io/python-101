@@ -80,4 +80,4 @@ Welcome to The Legend of Python GitHub repo! We are super excited to have you. H
 
 ---
 
-Make sure to join the [Codédex Club or Workshops](https://www.codedex.io/community) for more problems! 💖
+Make sure to join the [community](https://www.codedex.io/community) and [Codédex Club](https://www.codedex.io/pricing) for more content! 💖
