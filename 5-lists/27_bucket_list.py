@@ -1,4 +1,4 @@
-# Bucket List: Jerry Zhu 
+# Bucket List 🪣
 # Codédex
 
 things_to_do = [
