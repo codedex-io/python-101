@@ -66,7 +66,8 @@ Welcome to The Legend of Python GitHub repo! We are super excited to have you. H
 - [`bobs_burgers.py`](https://github.com/codedex-io/python-101/blob/main/7-classes-objects/35_bobs_burgers.py)
 - [`favorite_cities.py`](https://github.com/codedex-io/python-101/blob/main/7-classes-objects/36_favorite_cities.py)
 - [`bank_accounts.py`](https://github.com/codedex-io/python-101/blob/main/7-classes-objects/37_bank_accounts.py)
-- [`pokedex.py`](https://github.com/codedex-io/python-101/blob/main/7-classes-objects/38_pokedex.py)
+- [`pokedex.py`](https://github.com/codedex-io/python-101/blob/main/7-classes-objects/38_pokedex_1.py) (solution 1)
+- [`pokedex.py`](https://github.com/codedex-io/python-101/blob/main/7-classes-objects/38_pokedex_2.py) (solution 2)
 
 ## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_modules.png" height="20"> Modules
 
