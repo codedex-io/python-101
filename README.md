@@ -46,7 +46,7 @@ Welcome to The Legend of Python GitHub repo! We are super excited to have you. H
 - [`grocery.py`](https://github.com/codedex-io/python-101/blob/main/5-lists/22_grocery.py)
 - [`todo.py`](https://github.com/codedex-io/python-101/blob/main/5-lists/23_todo.py)
 - [`inventory.py`](https://github.com/codedex-io/python-101/blob/main/5-lists/24_inventory.py)
-- [`reading.py`](https://github.com/codedex-io/python-101/blob/main/5-lists/25_reading.py)
+- [`reading.py`](https://github.com/codedex-io/python-101/blob/main/5-lists/25_reading_list.py)
 - [`mixtape.py`](https://github.com/codedex-io/python-101/blob/main/5-lists/26_mixtape.py)
 - [`bucket_list.py`](https://github.com/codedex-io/python-101/blob/main/5-lists/27_bucket_list.py)
 
