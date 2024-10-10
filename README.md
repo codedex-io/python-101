@@ -29,7 +29,8 @@ Welcome to The Legend of Python GitHub repo! We are super excited to have you. H
 - [`grades.py`](https://github.com/codedex-io/python-101/blob/main/3-control-flow/12_grades.py)
 - [`ph_levels.py`](https://github.com/codedex-io/python-101/blob/main/3-control-flow/13_ph_levels.py)
 - [`magic_8_ball.py`](https://github.com/codedex-io/python-101/blob/main/3-control-flow/14_magic_8_ball.py)
-- [`the_cyclone.py`](https://github.com/codedex-io/python-101/blob/main/3-control-flow/15_the_cyclone.py)
+- [`the_cyclone.py`](https://github.com/codedex-io/python-101/blob/main/3-control-flow/15_the_cyclone_1.py) (solution 1)
+- [`the_cyclone.py`](https://github.com/codedex-io/python-101/blob/main/3-control-flow/15_the_cyclone_2.py) (solution 2)
 - [`sorting_hat.py`](https://github.com/codedex-io/python-101/blob/main/3-control-flow/16_sorting_hat_1.py) (solution 1)
 - [`sorting_hat.py`](https://github.com/codedex-io/python-101/blob/main/3-control-flow/16_sorting_hat_2.py) (solution 2)
 
