@@ -1,4 +1,4 @@
-# Pythagorean Theroem 📐
+# Pythagorean Theorem 📐
 # Codédex
 
 a = int(input("Enter a: "))
