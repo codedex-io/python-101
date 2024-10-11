@@ -2,7 +2,7 @@
 # Codédex
 
 things_to_do = [
-   '🚀 Build a menaingful product for everyone.',
+   '🚀 Build a meaningful product for everyone.',
    '⛰ Try out hiking and mountain biking.',
    '🌏 Visit at least 10 countries in my lifetime.',
    '🎸 Produce an original song.',
