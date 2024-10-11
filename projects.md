@@ -4,7 +4,7 @@
 
 - 🥠 Fortune Cookie
 - 🎲 Dice Rolling Simulator
-- 🫱 Rock Paper Scisssors
+- 🫱 Rock Paper Scissors
 - 🫱 Rock Paper Scissors Lizard Spark
 - 🤑 Who Wants to Be a Millionaire
 - ❓ Quiz Game
