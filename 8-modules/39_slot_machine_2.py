@@ -20,6 +20,9 @@ def play():
     if win:
       print('Jackpot!!! 💰')
       break
+    else:
+      results = random.choices(symbols, k=3)
+
 answer = ''
 while answer.upper() != 'N':
   play()
