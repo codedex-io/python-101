@@ -1,3 +1,6 @@
+# Initials ℹ️
+# Codédex
+
 # Fun fact: My high school band Attica was signed to an indie record label.
 
 print(' SSS   L    ')
