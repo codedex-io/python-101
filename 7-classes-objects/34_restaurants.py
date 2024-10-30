@@ -3,6 +3,6 @@
 
 class Restaurant:
   name = ''
-  description = ''
+  category = ''
   rating = 0.0
-  deliver = True
+  delivery = True
