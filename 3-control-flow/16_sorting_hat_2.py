@@ -77,11 +77,15 @@ print("Ravenclaw: ", ravenclaw)
 print("Hufflepuff: ", hufflepuff)
 print("Slytherin: ", slytherin)
 
-if gryffindor >= ravenclaw and gryffindor >= hufflepuff and gryffindor >= slytherin:
+# Bonus Part
+
+most_points = max(gryffindor, ravenclaw, hufflepuff, slytherin)   # We'll learn about the max() function in Chapter 6
+
+if gryffindor == most_points:
   print('🦁 Gryffindor!')
-elif ravenclaw >= hufflepuff and ravenclaw >= slytherin:
+elif ravenclaw == most_points:
   print('🦅 Ravenclaw!')
-elif hufflepuff >= slytherin:
+elif hufflepuff == most_points:
   print('🦡 Hufflepuff!')
 else:
   print('🐍 Slytherin!')
