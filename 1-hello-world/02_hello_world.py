@@ -1,4 +1,4 @@
 # Hello World 🌎
 # Codédex
 
-print('Hello world!')
+print('Hello World!')
