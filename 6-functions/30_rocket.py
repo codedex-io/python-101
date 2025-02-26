@@ -2,7 +2,8 @@
 # Codédex
 
 def distance_to_miles(distance):
-  return distance / 1.609
+  miles = (distance / 1.609)
+  print(str(distance) + 'km are ' + str(miles) + ' miles.')
 
-answer = distance_to_miles(10000)
-print(answer)
+distance_to_miles(1000)
+
