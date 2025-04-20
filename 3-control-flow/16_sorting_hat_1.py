@@ -20,11 +20,11 @@ print('  2) Dusk')
 answer = int(input('Enter answer (1-2): '))
 
 if answer == 1:
-  gryffindor += 1
-  ravenclaw += 1
+  gryffindor = gryffindor + 1
+  ravenclaw = ravenclaw + 1
 elif answer == 2:
-  hufflepuff += 1
-  slytherin +=1
+  hufflepuff = hufflepuff + 1
+  slytherin = slytherin + 1
 else:
   print('Wrong input.')
 
@@ -40,13 +40,13 @@ print('  4) The Bold')
 answer = int(input('Enter your answer (1-4): '))
 
 if answer == 1:
-  hufflepuff += 2
+  hufflepuff = hufflepuff + 2
 elif answer == 2:
-  slytherin += 2
+  slytherin = slytherin + 2
 elif answer == 3:
-  ravenclaw += 2
+  ravenclaw = ravenclaw + 2
 elif answer == 4:
-  gryffindor += 2
+  gryffindor = gryffindor + 2
 else:
   print('Wrong input.')
 
@@ -62,13 +62,13 @@ print('  4) The drum')
 answer = int(input('Enter your answer (1-4): '))
 
 if answer == 1:
-  slytherin += 4
+  slytherin = slytherin + 4
 elif answer == 2:
-  hufflepuff += 4
+  hufflepuff = hufflepuff + 4
 elif answer == 3:
-  ravenclaw +=4
+  ravenclaw = ravenclaw + 4
 elif answer == 4:
-  gryffindor += 4
+  gryffindor = gryffindor + 4
 else:
   print('Wrong input.')
   
