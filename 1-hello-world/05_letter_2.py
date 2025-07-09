@@ -1,0 +1,17 @@
+# Snail Mail 💌
+# Codédex
+
+print('+---------------------------------------------------------------------+')
+print('|                                                                     |')
+print('|                                                                     |')
+print('|        Wrote myself a letter                                        |')
+print('|        Just a single question                                       |')
+print('|        When you finally get this                                    |')
+print('|        Where will you be?                                           |')
+print('|        Will you be a shipwreck or a star                            |')
+print('|        Falling for a boy who doesn't play guitar?                   |')
+print('|        Now rewind the tape back to the start                        |')
+print('|        Said I'd never leave you, but here we are                    |')
+print('|                                                                     |')
+print('|                                                                     |')
+print('+---------------------------------------------------------------------+')
