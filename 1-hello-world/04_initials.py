@@ -1,4 +1,4 @@
-# Fun fact: My high school band Attica was signed to an indie record label.
+# Fun fact: My high school band Attica was signed to an indie record label. 🤘
 
 print(' SSS   L    ')
 print('S   S  L    ')
