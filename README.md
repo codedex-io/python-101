@@ -16,6 +16,8 @@ Welcome to The Legend of Python GitHub repo! We are super excited to have you. H
 - [`initials.py`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/04_initials.py)
 - [`letter.py`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/05_letter.py)
 
+Walkthrough video: https://www.youtube.com/watch?v=ioumu_SC7F8
+
 ## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_equal.png" height="21" style="vertical-align: middle"> Variables
 
 - [`temperature.py`](https://github.com/codedex-io/python-101/blob/main/2-variables/07_temperature.py)
