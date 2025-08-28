@@ -9,7 +9,7 @@ Welcome to The Legend of Python GitHub repo! We are super excited to have you. H
 
 ### Website: www.codedex.io/python
 
-## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_earth.png" height="20" style="vertical-align: middle"> Hello World
+## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_earth.png" height="20" style="vertical-align: middle"> Ch 1: Hello World
 
 - [`hello_world.py`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/02_hello_world.py)
 - [`pattern.py`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/03_pattern.py)
