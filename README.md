@@ -7,7 +7,7 @@
 
 Welcome to The Legend of Python GitHub repo! We are super excited to have you. Here, you will find all the solutions to the Codédex exercises. Feel free to make pull requests to add your own twists on the exercises!
 
-### Start the course here: www.codedex.io/python
+### Start the course: www.codedex.io/python
 
 ## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_earth.png" height="20" style="vertical-align: middle"> Ch 1: Hello World
 
