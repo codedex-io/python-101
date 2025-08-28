@@ -9,7 +9,7 @@ Welcome to The Legend of Python GitHub repo! We are super excited to have you. H
 
 ### Start the course: www.codedex.io/python
 
-## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_earth.png" height="20" style="vertical-align: middle"> Ch 1: Hello World
+## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_earth.png" height="20" style="vertical-align: middle"> 1: Hello World
 
 - [`hello_world.py`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/02_hello_world.py)
 - [`pattern.py`](https://github.com/codedex-io/python-101/blob/main/1-hello-world/03_pattern.py)
@@ -18,7 +18,7 @@ Welcome to The Legend of Python GitHub repo! We are super excited to have you. H
 
 Walkthrough video: https://www.youtube.com/watch?v=ioumu_SC7F8
 
-## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_equal.png" height="21" style="vertical-align: middle"> Variables
+## <img src="https://raw.githubusercontent.com/codedex-io/python-101/main/assets/badge_equal.png" height="21" style="vertical-align: middle"> 2. Variables
 
 - [`temperature.py`](https://github.com/codedex-io/python-101/blob/main/2-variables/07_temperature.py)
 - [`bmi.py`](https://github.com/codedex-io/python-101/blob/main/2-variables/08_bmi.py)
