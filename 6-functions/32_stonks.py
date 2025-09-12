@@ -14,7 +14,7 @@ def max_price(a, b):
 
 def min_price(a, b):
   mn = price_at(a)
-  for i in range(a, b + 1):
+  for i in range(a + 1, b + 1):
     mn = min(mn, price_at(i))
   return mn
 
