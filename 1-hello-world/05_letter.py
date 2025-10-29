@@ -22,7 +22,7 @@ print('|         And when things fall apart, get tf back up.                    
 print('|                                                                                        |')
 print('|         - Sonny 🤠                                                                     |')
 print('|                                                                                        |')
-print('|         P.S. Don\'t forget to have some fun along the way.                             |')
+print('|         P.S. You got this kiddo. Go get em.                                            |')
 print('|                                                                                        |')
 print('|                                                                                        |')
 print('+----------------------------------------------------------------------------------------+')
