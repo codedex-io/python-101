@@ -10,7 +10,7 @@ print('|         Dear Self,                                                     
 print('|                                                                                        |')
 print('|         Does great art require suffering?                                              |')
 print('|         Does great product require capital?                                            |')
-print('|         Will I find some truth at the end of this road?                                |')
+print('|         Did you find some truth at the end of this road?                               |')
 print('|                                                                                        |')
 print('|         Regardless, go build the learning platform you always dreamed of,              |')
 print('|         the one you wish existed when you first started.                               |')
