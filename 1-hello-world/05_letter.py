@@ -18,7 +18,7 @@ print('|                                                                        
 print('|         Give more than you take.                                                       |')
 print('|         Take less than you need.                                                       |')
 print('|                                                                                        |')
-print('|         And when things fall apart, get back up.                                       |')
+print('|         And when things fall apart, get tf back up.                                    |')
 print('|                                                                                        |')
 print('|         - Sonny 🤠                                                                     |')
 print('|                                                                                        |')
