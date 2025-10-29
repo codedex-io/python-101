@@ -19,7 +19,7 @@ print('|       Take only what you need.                                         
 print('|                                                                                 |')
 print('|       And when things fall apart, get tf back up.                               |')
 print('|                                                                                 |')
-print('|       - Sonny Li                                                                |')
+print('|       Sonny Li                                                                  |')
 print('|                                                                                 |')
 print('|       P.S. Hope I made you proud. You got this, kiddo. 🤠                       |')
 print('|                                                                                 |')
