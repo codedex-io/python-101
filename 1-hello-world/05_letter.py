@@ -9,7 +9,7 @@ print('|                                                                        
 print('|         Dear Self,                                                                           |')
 print('|                                                                                              |')
 print('|         Does great art require suffering?                                                    |')
-print('|         Does great product require capital?                                                  |')
+print('|         Does great product demand capital?                                                   |')
 print('|         Did you find some truth at the end of this road?                                     |')
 print('|                                                                                              |')
 print('|         Regardless, go build the learning platform you always dreamed of —                   |')
