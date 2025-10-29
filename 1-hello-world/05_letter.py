@@ -22,6 +22,6 @@ print('|         And when things fall apart, get tf back up.                    
 print('|                                                                                              |')
 print('|         - Sonny 🤠                                                                           |')
 print('|                                                                                              |')
-print('|         P.S. Hope I made you proud. You got it, kiddo. Go get ’em.                           |')
+print('|         P.S. Hope I made you proud. You got this, kiddo. Go get ’em.                         |')
 print('|                                                                                              |')
 print('+----------------------------------------------------------------------------------------------+')
