@@ -3,8 +3,8 @@
 
 print('+-------------------------------------------------------------------------------------------+')
 print('|                                                                                           |')
-print('|                                                                          October, 2025    |')
-print('|                                                                          Brooklyn, NY     |')
+print('|                                                                           October 2025    |')
+print('|                                                                           Brooklyn, NY    |')
 print('|                                                                                           |')
 print('|         Dear Self,                                                                        |')
 print('|                                                                                           |')
