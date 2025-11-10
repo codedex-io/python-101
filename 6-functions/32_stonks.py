@@ -7,7 +7,7 @@ def price_at(i):
   return stock_prices[i-1]
 
 def max_price(a, b):
-  mx = 0
+  mx = price_at(a)
   for i in range(a, b + 1):
     mx = max(mx, price_at(i))
   return mx
