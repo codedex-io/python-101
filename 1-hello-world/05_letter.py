@@ -15,7 +15,7 @@ print('|       Regardless, go build the learning platform you’ve always dreame
 print('|       the one you wish existed when you first started.                          |')
 print('|                                                                                 |')
 print('|       Give more than you take.                                                  |')
-print('|       Take just what you need.                                                  |')
+print('|       Take only what you need.                                                  |')
 print('|                                                                                 |')
 print('|       And when things fall apart, get tf back up.                               |')
 print('|                                                                                 |')
