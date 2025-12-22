@@ -3,4 +3,4 @@
 
 import wikipedia
 
-print(wikipedia.search('Philosophy of life'))
+print(wikipedia.summary('Philosophy of life'))
