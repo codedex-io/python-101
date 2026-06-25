@@ -2,12 +2,11 @@
 # Codédex
 
 things_to_do = [
-  '🚀 Build a meaningful product for everyone.',
-  '⛰ Try out hiking and mountain biking.',
-  '🌏 Visit at least 10 countries in my lifetime.',
-  '🎸 Produce an original song.',
-  '📝 Write a short story.',
-  '🏃 Finish a 10k marathon.'
+  '⛰ Try out mountain biking.',
+  '🚐 Visit all 50 states.',
+  '🏄 Learn how to surf.',
+  '📝 Publish a short story.',
+  '🏃 Run a 10k marathon.'
 ]
 
 for thing in things_to_do:
