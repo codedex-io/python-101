@@ -7,7 +7,7 @@ things_to_do = [
   '🏄 Learn how to surf.',
   '📝 Publish a short story.',
   '🏃 Run a 10k marathon.',
-  '🧠 Learn Spanish.'
+  '💚 Learn Spanish.'
 ]
 
 for thing in things_to_do:
