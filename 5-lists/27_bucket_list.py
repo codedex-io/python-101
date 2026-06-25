@@ -2,7 +2,7 @@
 # Codédex
 
 things_to_do = [
-  '⛰ Try out mountain biking.',
+  '⛰️ Try out mountain biking.',
   '🚐 Visit all 50 states.',
   '🏄 Learn how to surf.',
   '📝 Publish a short story.',
