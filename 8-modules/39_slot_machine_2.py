@@ -11,21 +11,19 @@ symbols = [
 ]
 
 def play():
+  results = random.choices(symbols, k=3)
+  print(results[0] + ' | ' + results[1] + ' | ' + results[2])
+  
+  if results[0] == '7️⃣' and results[1] == '7️⃣' and results[2] == '7️⃣':
+    print('Jackpot! 💰')
+  else:
+    print('Thank for playing!')
 
-  for i in range(1, 51):    
-    results = random.choices(symbols, k=3)
-    print(f'{results[0]} | {results[1]} | {results[2]}')
-    win = results[0] == '7️⃣' and results[1] == '7️⃣' and results[2] == '7️⃣'
-
-    if win:
-      print('Jackpot!!! 💰')
-      break
-    else:
-      results = random.choices(symbols, k=3)
-
-answer = ''
-while answer.upper() != 'N':
+question = input("Do you want to start the game? If yes: Click 'Y' If no: Click 'N'")
+while question == 'Y':
   play()
-  answer = input('Keep playing? (Y/N) ')
+  question = input("Do you want to continue? If yes: Click 'Y' If no: Click 'N'")
 
-print('Thanks for playing!')
+
+
+
